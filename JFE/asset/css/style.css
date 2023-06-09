@@ -2,7 +2,7 @@
  * @Author: Your name
  * @Date:   2023-06-05 17:10:01
  * @Last Modified by:   Your name
- * @Last Modified time: 2023-06-08 12:51:10
+ * @Last Modified time: 2023-06-09 09:57:38
  */
 body {
 	font-family: source-han-sans-japanese, Helvetica Neue, Arial, Hiragino Kaku Gothic ProN, Hiragino Sans, Meiryo, sans-serif;
@@ -227,7 +227,7 @@ img {
 
 .header__cta li:nth-child(1)::before {
 	position: absolute;
-	content: url(/asset/img/icon/download_blue.png);
+	content: url(../img/icon/download_blue.png);
 	top: 50%;
 	left: 24px;
 	transform: translate(-50%, -50%);
@@ -242,7 +242,7 @@ img {
 
 .header__cta li:nth-child(2)::after {
 	position: absolute;
-	content: url(/asset/img/icon/email.png);
+	content: url(../img/icon/email.png);
 	top: 50%;
 	left: 32px;
 	transform: translate(-50%, -50%);
@@ -310,7 +310,7 @@ img {
 
 .breadcrumb span:not(:first-child)::before {
 	position: absolute;
-	content: url(/asset/img/icon/arrow_dark.png);
+	content: url(../img/icon/arrow_dark.png);
 	top: 50%;
 	left: -14px;
 	transform: translate(-50%, -50%);
@@ -411,7 +411,7 @@ width: 100%;
 
 .jfeA__sidebar .search::after {
 	position: absolute;
-	content: url(/asset/img/icon/search.png);
+	content: url(../img/icon/search.png);
 	top: 50%;
 	right: 12px;
 	transform: translateY(-50%);
@@ -494,7 +494,7 @@ width: 100%;
 
 .pageNav li:first-child::after {
 	position: absolute;
-	content: url(/asset/img/icon/arrow_left.svg);
+	content: url(../img/icon/arrow_left.svg);
 	top: 50%;
 	transform: translateY(-50%);
 }
@@ -509,7 +509,7 @@ width: 100%;
 
 .pageNav li:last-child::after {
 	position: absolute;
-	content: url(/asset/img/icon/arrow_right.svg);
+	content: url(../img/icon/arrow_right.svg);
 	top: 50%;
 	transform: translateY(-50%);
 }
@@ -555,7 +555,7 @@ width: 100%;
 
 .footer__cta .data::after {
 	position: absolute;
-	content: url(/asset/img/icon/download.png);
+	content: url(../img/icon/download.png);
 	top: 50%;
 	left: 24px;
 	transform: translateY(-50%);
@@ -583,7 +583,7 @@ width: 100%;
 
 .footer__cta .contact::before {
 	position: absolute;
-	content: url(/asset/img/icon/email.png);
+	content: url(../img/icon/email.png);
 	top: 50%;
 	left: 22px;
 	transform: translateY(-50%);
@@ -736,7 +736,7 @@ width: 100%;
 
 .jfeAA-article__recommend .item::before {
 	position: absolute;
-	content: url(/asset/img/icon/jfeAA_peoplesvg.svg);
+	content: url(../img/icon/jfeAA_peoplesvg.svg);
 	top: 50%;
 	left: 0;
 	transform: translateY(-50%);
@@ -763,7 +763,7 @@ width: 100%;
 
 .jfeAA-article__catalog .item::before {
 	position: absolute;
-	content: url(/asset/img/icon/jfeAA_paper.svg);
+	content: url(../img/icon/jfeAA_paper.svg);
 	top: 50%;
 	left: 0;
 	transform: translateY(-50%);
@@ -869,7 +869,7 @@ width: 100%;
 
 .jfeAA-cta__contact .date::before {
 	position: absolute;
-	content: url(/asset/img/icon/jfeAA__contact_paper.svg);
+	content: url(../img/icon/jfeAA__contact_paper.svg);
 	top: 50%;
 	left: 54px;
 	transform: translateY(-50%);
@@ -887,7 +887,7 @@ width: 100%;
 
 .jfeAA-cta__contact .email::before {
 	position: absolute;
-	content: url(/asset/img/icon/jfeAA__email.svg);
+	content: url(../img/icon/jfeAA__email.svg);
 	top: 50%;
 	left: 62px;
 	transform: translateY(-50%);
@@ -949,7 +949,7 @@ width: 100%;
 
 .jfeAA-relateArticle__ttl .link::after {
 	position: absolute;
-	content: url(/asset/img/icon/arrow_blue.svg);
+	content: url(../img/icon/arrow_blue.svg);
 	right: 0;
 }
 
@@ -1016,7 +1016,7 @@ width: 100%;
 
 .jfeAA-recommendArticle__ttl .link::after {
 	position: absolute;
-	content: url(/asset/img/icon/arrow_blue.svg);
+	content: url(../img/icon/arrow_blue.svg);
 	right: 0;
 }
 
@@ -1097,7 +1097,7 @@ width: 100%;
 
 .article__pageNav .before .h3::before {
 	position: absolute;
-	content: url(/asset/img/icon/arrow_left_blue.svg);
+	content: url(../img/icon/arrow_left_blue.svg);
 	top: 50%;
 	left: 0;
 	transform: translateY(-50%);
@@ -1127,7 +1127,7 @@ width: 100%;
 
 .article__pageNav .next .h3::after {
 	position: absolute;
-	content: url(/asset/img/icon/arrow_right_blue.svg);
+	content: url(../img/icon/arrow_right_blue.svg);
 	right: 0;
 }
 
@@ -1158,7 +1158,7 @@ width: 100%;
 
 .back__link::after {
 	position: absolute;
-	content: url(/asset/img/icon/arrow_back.svg);
+	content: url(../img/icon/arrow_back.svg);
 	right: 0;
 
 }
