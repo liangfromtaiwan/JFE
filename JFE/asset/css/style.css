@@ -2,7 +2,7 @@
  * @Author: Your name
  * @Date:   2023-06-05 17:10:01
  * @Last Modified by:   Your name
- * @Last Modified time: 2023-06-09 18:49:40
+ * @Last Modified time: 2023-06-09 18:50:33
  */
 body {
 	font-family: source-han-sans-japanese, Helvetica Neue, Arial, Hiragino Kaku Gothic ProN, Hiragino Sans, Meiryo, sans-serif;
@@ -326,7 +326,7 @@ img {
 .top-mv {
 	padding: 140px 0 80px 0;
 	overflow: hidden;
-	background-image: url(../img/photo/top-mv.png);
+	background-image: url(../img/photo/top-mv.png) ;
 	background-size: 120%;
 	object-fit: cover;
 	background-repeat: no-repeat;
