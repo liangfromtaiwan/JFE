@@ -1,10 +1,3 @@
-/**
- * @Author: Your name
- * @Date:   2023-06-05 17:10:08
- * @Last Modified by:   Your name
- * @Last Modified time: 2023-06-06 13:45:00
- */
-
 $(document).ready(function () {
   // hamburger
   $(".hamburger").click(function (e) {
@@ -12,7 +5,7 @@ $(document).ready(function () {
     $(".hamburger").toggleClass("active");
     $(".header__inner").toggleClass("active");
   });
-
+});
   //header
   $(window).on("scroll", function () {
     if ($(this).scrollTop() > 60) {
